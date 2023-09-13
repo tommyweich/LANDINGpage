@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300&family=EB+Garamond:ital,wght@0,500;1,500&family=Oswald:wght@500&family=Sigmar&display=swap');
+
+body {
+    font-family: Averia Serif Libre;
+    color: white;
+    background-image: url(img/peak.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+img {height: 100px;}
+
+
+#columna1 {
+    margin-top: 15%;
+}
+
+.peakyblinders img {
+    width: 50%;
+    height: 50%;
+}
+
+h3 {
+    margin-top: 4%;
+}
+
+#columna3 {
+margin-top: 9%;
+}
+
+
+form {
+    background-color:rgba(0, 0, 0, 0.4);
+}
+
+form img {
+    margin-bottom: 5%;
+}
+.mb-3 {
+    width: 60%;
+    margin-left: 20%;    
+
+}
+
+button {
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+
+.texto {
+    margin-top: 30%;
+}
+
+footer {
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10%;
+}
+
+.netflix img {
+    height: 50px;
+}
+
+.copy {font-size: 10px;}
+
+.text-dark {
+    font-size: 10px;
+}
+
+#gracias {
+    background-image: url(img/peak.jpeg);
+}
+
+.gracias {
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.gracias h1 {
+    font-size: 100px;
+    
+}
+
+
+.gracias h2 {
+    font-size: 20px;
+}
+
+.gracias h3 {
+    font-size: 20px;
+}
+
+.fade-in-text {
+    font-size: 20px;
+    opacity: 0; 
+    animation: fade-in 2s ease-out forwards; 
+  }
+  
+  @keyframes fade-in {
+    to {
+      opacity: 1; 
+    }
+  }
+
+
+
